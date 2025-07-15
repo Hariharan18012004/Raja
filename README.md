@@ -1,4 +1,4 @@
-# LINUX COMMAND
+# LINUX COMMANDS
 
 ## mkdir
 *make a new directory*
